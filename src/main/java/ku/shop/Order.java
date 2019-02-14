@@ -22,6 +22,9 @@ public class Order {
     }
 
     public void addItem(Product prod, int quantity) {
+        if (prod.getQuantity() < quantity) {
+            throw new IllegalArgumentException("Order quantity exceeds the inventory quantity");
+        }
         items.add(new OrderItem(prod, quantity));
     }
 
