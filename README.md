@@ -4,6 +4,6 @@
 
 Thanapoom Rattanathumawat - 6010546672
 
-Dachabhol Kotheeranurak   - 6010546664
+Dechabhol Kotheeranurak   - 6010546664
 
 Napasai Sutthichutipong   - 6010545811
